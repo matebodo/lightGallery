@@ -2,8 +2,7 @@
 A customizable, modular, responsive, lightbox gallery plugin for jQuery.
 ![lightgallery](https://raw.githubusercontent.com/sachinchoolur/lightGallery/master/lib/lg.png)
 
-Форк версии 1.2.18, полностью переписан плагин зума, частично дописан функционал самого слайдера.  
-Линк на оригинал: https://raw.githubusercontent.com/sachinchoolur/lightGallery
+Форк версии 1.2.18, полностью переписан плагин зума, частично дописан функционал самого слайдера.
 
 # Изменения:  
 - Добавлена поддержка масштабирования мышкой, двумя пальцами
